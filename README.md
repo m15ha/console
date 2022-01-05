@@ -1,0 +1,1 @@
+console with react + styled components
